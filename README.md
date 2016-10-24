@@ -1,10 +1,10 @@
 # AndroidLocationUpdate
 
-If you’ve read my part one of the Android location manager tutorial, I’m assuming that you’ve successfully integrated maps in your Android app.
+If you’ve read my part one of the [Android location manager tutorial](https://www.spaceotechnologies.com/obtain-current-android-location-manager/), I’m assuming that you’ve successfully integrated maps in your Android app.
 
 That’s cool, now we’ll obtain the current location of the device.
 
-I have also written the part -2 of [obtaining current location with android location manager](https://www.spaceotechnologies.com/obtain-current-android-location-manager/), so you can check out article as well.
+I have also written the part -2 of [obtaining current location with android location manager](https://www.spaceotechnologies.com/obtain-current-location-using-android-location-manager/), so you can check out article as well.
 
 In this part, I’ve added features of showing current location directly on the map.
 
